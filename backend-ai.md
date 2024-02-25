@@ -45,15 +45,18 @@ This guide is tailored for backend developers aiming to harness the power of Ope
 - Enhancing proficiency in Lang Chain for more sophisticated AI applications.
 - Understanding and applying Large Language Models (LLMs) in backend development.
 
-## Section 5: Practical Applications and Best Practices
+## Section 5: Finetuning and Traning models
+
+### Building End-to-End AI Finetuned Models
+- The quality and quantity of your data directly impact the model's performance. For specialized tasks, it's crucial to collect domain-specific data.
+- Then finetune GPT 3.5 or any opensource model as practice for a specific use case.
+
+
+## Section 6: Practical Applications and Best Practices
 
 ### Building End-to-End AI Solutions
 - Case studies on developing and deploying AI-driven applications.
 - Considerations for integrating AI into existing backend systems.
-
-### AI Ethics and Responsibility
-- Addressing ethical considerations in AI development.
-- Implementing responsible AI practices in backend solutions.
 
 ## Conclusion
 
