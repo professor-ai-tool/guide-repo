@@ -1,5 +1,55 @@
 # AI Backend Development Guide: Leveraging OpenAI and Beyond
 
+## https://www.promptingguide.ai/ - everything in this website is a requirement. 
+- **Finetuning**
+  - Dataset Creation
+  - Types of Learning Methods
+    - Reinforcement Learning
+    - Supervised Learning
+    - Unsupervised Learning
+    - Zero-Shot Learning
+    - One-shot Learning
+    - Few-Shot Learning
+  - Concepts within LLMs and Neural Networks
+
+- **Prompting Guide**
+  - Understanding How System Prompts Work
+  - Function Calling
+
+- **Prompt Engineering**
+  - Introduction
+  - LLM Settings
+  - Basics of Prompting
+    - Prompt Elements
+    - General Tips for Designing Prompts
+    - Examples of Prompts
+  - Techniques
+    - Zero-shot Prompting
+    - Few-shot Prompting
+    - Chain-of-Thought Prompting
+    - Self-Consistency
+    - Generate Knowledge Prompting
+    - Prompt Chaining
+    - Tree of Thoughts
+    - Retrieval Augmented Generation
+    - Automatic Reasoning and Tool-use
+    - Automatic Prompt Engineer
+    - Active-Prompt
+    - Directional Stimulus Prompting
+    - Program-Aided Language Models
+    - ReAct
+    - Reflexion
+    - Multimodal CoT
+    - Graph Prompting
+  - Applications
+    - Function Calling
+    - Generating Data
+    - Generating Synthetic Dataset for RAG
+    - Tackling Generated Datasets Diversity
+    - Generating Code
+    - Graduate Job Classification Case Study
+    - Prompt Function
+
 ## Introduction
 
 This guide is tailored for backend developers aiming to harness the power of OpenAI technologies, including the OpenAI API, Langchain, and more, to create secure, innovative AI systems. It covers essential skills and knowledge required to design and deploy AI-driven solutions, manage large-scale data, and ensure system reliability and data integrity.
