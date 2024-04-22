@@ -19,32 +19,6 @@
 **TailwindCSS**
 - Refresh your knowledge on TailwindCSS, a utility-first CSS framework. Visit the official documentation for installation and usage guides ([link](https://tailwindcss.com/docs/installation)).
 
-### Backend Development with tRPC
-
-When diving into backend development, tRPC is a powerful tool to consider. It offers a simplified approach to building APIs without the need to define schemas or generate code. Here's a structured guide to help you understand and implement tRPC in your backend development.
-
-#### Understanding tRPC
-
-**Getting Started with tRPC**
-- Begin by exploring the official tRPC documentation. This is a great resource for understanding the basics and setting up tRPC in your projects ([tRPC Getting Started](https://trpc.io/docs/getting-started)).
-
-#### Learning Resources
-
-**Video Tutorials**
-- To supplement the documentation, several YouTube tutorials can provide more in-depth insights and practical examples:
-  1. Vercel's tutorial on tRPC implementation offers a comprehensive guide, ideal for beginners ([Vercel tRPC Tutorial](https://www.youtube.com/watch?v=2LYM8gf184U)).
-  2. Matt Pocock's video is another valuable resource, delving into specific aspects of tRPC and its usage ([Matt Pocock's tRPC Guide](https://www.youtube.com/watch?v=S6rcrkbsDI0)).
-  3. For more advanced concepts and practical implementations, watch Marcon's tutorial ([Marcon's Advanced tRPC Tutorial](https://www.youtube.com/watch?v=0DyAyLdVW0I)).
-
-**Applying Your Knowledge**
-- Once you've gone through the documentation and tutorials, the next step is to implement tRPC in a project. Start with a simple backend application to familiarize yourself with its setup and basic functionalities. Gradually, as you become more comfortable, you can tackle more complex applications.
-
-**Experimentation**
-- Experiment with different features of tRPC, like query, mutation, and subscription handlers. Try integrating it with databases and other backend technologies you're familiar with.
-
-**Debugging and Optimization**
-- Learn to debug and optimize your tRPC implementation. Understanding how to troubleshoot and enhance performance is crucial in backend development.
-
 #### 3. Our Chosen Tech Stack
 
 ## Tech Stack
